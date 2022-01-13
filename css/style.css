@@ -1,0 +1,24 @@
+.navbar {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    display: inline;
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    background-color: blue;
+    color: white
+}
