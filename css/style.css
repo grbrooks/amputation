@@ -10,8 +10,14 @@ body {
     /* font-family: 'Courier New', Courier, monospace; */
 }
 
+#header {
+    text-align: center;
+    color: #a3a0f5;
+}
+
 .navbar-brand img {
     height: 50px;
     width: auto;
     border-radius: 50%;
+    border: 1px solid #fff;
 }
