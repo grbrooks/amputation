@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    text-align: center;
 }
 
 
@@ -20,4 +21,19 @@ body {
     width: auto;
     border-radius: 50%;
     border: 1px solid #fff;
+}
+
+.one {
+    background-color: blue;
+    color: white;
+}
+
+.two {
+    background-color: red;
+    color: white;
+}
+
+.three {
+    background-color: green;
+    color: white;
 }
