@@ -2,12 +2,16 @@
     margin: 0;
 }
 
+
+/*  */
+
 body {
     background-color: #87cffa;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
 }
 
 .navbar-brand img {
-    height: 25px;
-    width: 25px;
+    height: 50px;
+    width: auto;
+    border-radius: 50%;
 }
