@@ -23,7 +23,7 @@ body {
     border: 1px solid #fff;
 }
 
-.one {
+.pamaid {
     background-color: #fff;
     color: #000;
 }
@@ -38,14 +38,13 @@ body {
     color: white;
 }
 
-#pamaid {
+.pamaid {
     margin: 0;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
 }
 
-#pamaid h3,
-h4 {
+.pamaid h4 {
     font-weight: bold;
     text-align: left;
 }
