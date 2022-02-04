@@ -42,13 +42,13 @@ body {
     color: white;
 }
 
-.pamaid {
+h3 {
     margin: 0;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
-.pamaid h4 {
+h4 {
     font-weight: bold;
     text-align: center;
 }
