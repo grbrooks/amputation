@@ -25,14 +25,16 @@ body {
 
 .pamaid {
     background-color: #fff;
-    color: #000;
 }
 
-.walking {
-    background-color: #fff;
-    color: #000;
-    height: 50px;
-    width: 50px;
+.pamaid img {
+    height: 350px;
+    width: 250px;
+}
+
+.walking img {
+    height: 350px;
+    width: 250px;
 }
 
 .three {
@@ -42,11 +44,11 @@ body {
 
 .pamaid {
     margin: 0;
-    text-align: left;
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .pamaid h4 {
     font-weight: bold;
-    text-align: left;
+    text-align: center;
 }
